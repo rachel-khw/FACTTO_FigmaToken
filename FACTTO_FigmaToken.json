@@ -999,6 +999,10 @@
       "Fail": {
         "value": "{Negative.Negative50}",
         "type": "color"
+      },
+      "Fail-bg": {
+        "value": "{Negative.Negative10}",
+        "type": "color"
       }
     },
     "Transparent": {
