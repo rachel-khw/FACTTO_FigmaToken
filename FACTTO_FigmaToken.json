@@ -667,7 +667,7 @@
         "value": {
           "fontFamily": "{fontFamilies.pretendard}",
           "fontWeight": "{fontWeights.pretendard-0}",
-          "lineHeight": "{lineHeights.11}",
+          "lineHeight": "{lineHeights.12}",
           "fontSize": "{fontSize.1}",
           "letterSpacing": "{letterSpacing.2}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -741,6 +741,20 @@
           "fontWeight": "{fontWeights.pretendard-2}",
           "lineHeight": "{lineHeights.11}",
           "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.2}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "$Caption-02": {
+        "value": {
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-2}",
+          "lineHeight": "{lineHeights.12}",
+          "fontSize": "{fontSize.0}",
           "letterSpacing": "{letterSpacing.2}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "paragraphIndent": "{paragraphIndent.0}",
