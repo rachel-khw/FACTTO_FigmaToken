@@ -1031,11 +1031,11 @@
         "value": "{Active.Active60}",
         "type": "color"
       },
-      "teritary": {
+      "$teritary": {
         "value": "{Black & White.White}",
         "type": "color"
       },
-      "teritary-press": {
+      "$teritary-press": {
         "value": "{Gray.Gray10}",
         "type": "color"
       },
