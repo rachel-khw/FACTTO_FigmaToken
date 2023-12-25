@@ -925,18 +925,18 @@
           {
             "color": "#00000040",
             "type": "dropShadow",
-            "x": 0,
-            "y": 2,
-            "blur": 4,
-            "spread": 0
+            "x": "0",
+            "y": "2",
+            "blur": "4",
+            "spread": "0"
           },
           {
             "color": "#00000040",
             "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 4,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "4",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -946,18 +946,18 @@
           {
             "color": "#00000014",
             "type": "dropShadow",
-            "x": 4,
-            "y": 8,
-            "blur": 24,
-            "spread": 0
+            "x": "4",
+            "y": "8",
+            "blur": "24",
+            "spread": "0"
           },
           {
             "color": "#00000029",
             "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 24,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "24",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -967,18 +967,18 @@
           {
             "color": "#00000014",
             "type": "dropShadow",
-            "x": 0,
-            "y": -8,
-            "blur": 16,
-            "spread": 0
+            "x": "0",
+            "y": "-8",
+            "blur": "16",
+            "spread": "0"
           },
           {
             "color": "#00000014",
             "type": "dropShadow",
-            "x": 0,
-            "y": -4,
-            "blur": 8,
-            "spread": 0
+            "x": "0",
+            "y": "-4",
+            "blur": "8",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -1091,15 +1091,27 @@
         "value": "{Black & White.White}",
         "type": "color"
       },
-      "Success": {
+      "$Success": {
         "value": "{Positive.Positive50}",
         "type": "color"
       },
-      "Fail": {
+      "$Success-bg": {
+        "value": "{Positive.Positive10}",
+        "type": "color"
+      },
+      "$Notice": {
+        "value": "{Notice.Notice50}",
+        "type": "color"
+      },
+      "$Notice-bg": {
+        "value": "{Notice.Notice20}",
+        "type": "color"
+      },
+      "$Fail": {
         "value": "{Negative.Negative50}",
         "type": "color"
       },
-      "Fail-bg": {
+      "$Fail-bg": {
         "value": "{Negative.Negative10}",
         "type": "color"
       }
