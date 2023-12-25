@@ -995,48 +995,12 @@
         "value": "{Gray.Gray02}",
         "type": "color"
       },
-      "$textStrong": {
-        "value": "{Black & White.Black}",
-        "type": "color"
-      },
-      "$text-01": {
-        "value": "{Gray.Gray90}",
-        "type": "color"
-      },
-      "$text-02": {
-        "value": "{Gray.Gray70}",
-        "type": "color"
-      },
-      "$text-03": {
-        "value": "{Gray.Gray50}",
-        "type": "color"
-      },
-      "$text-04": {
-        "value": "{Gray.Gray30}",
-        "type": "color"
-      },
-      "$primary": {
-        "value": "{Primary.Primary50}",
-        "type": "color"
-      },
-      "$primary-press": {
-        "value": "{Primary.Primary60}",
-        "type": "color"
-      },
-      "$callToAction": {
-        "value": "{Active.Active50}",
-        "type": "color"
-      },
-      "$callToAction-pressed": {
-        "value": "{Active.Active60}",
-        "type": "color"
-      },
-      "$teritary": {
+      "$uiContainer": {
         "value": "{Black & White.White}",
         "type": "color"
       },
-      "$teritary-press": {
-        "value": "{Gray.Gray10}",
+      "$uiContainer-01": {
+        "value": "{Black & White.White}",
         "type": "color"
       },
       "$ui-01": {
@@ -1083,11 +1047,47 @@
         "value": "{Gray.Gray95}",
         "type": "color"
       },
-      "$uiContainer": {
-        "value": "{Black & White.White}",
+      "$primary": {
+        "value": "{Primary.Primary50}",
         "type": "color"
       },
-      "$uiContainer-01": {
+      "$primary-press": {
+        "value": "{Primary.Primary60}",
+        "type": "color"
+      },
+      "$textStrong": {
+        "value": "{Black & White.Black}",
+        "type": "color"
+      },
+      "$text-01": {
+        "value": "{Gray.Gray90}",
+        "type": "color"
+      },
+      "$text-02": {
+        "value": "{Gray.Gray70}",
+        "type": "color"
+      },
+      "$text-03": {
+        "value": "{Gray.Gray50}",
+        "type": "color"
+      },
+      "$text-04": {
+        "value": "{Gray.Gray30}",
+        "type": "color"
+      },
+      "$callToAction": {
+        "value": "{Active.Active50}",
+        "type": "color"
+      },
+      "$callToAction-pressed": {
+        "value": "{Active.Active60}",
+        "type": "color"
+      },
+      "$teritary-press": {
+        "value": "{Gray.Gray10}",
+        "type": "color"
+      },
+      "$teritary": {
         "value": "{Black & White.White}",
         "type": "color"
       },
