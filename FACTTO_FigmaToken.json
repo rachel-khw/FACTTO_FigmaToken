@@ -920,7 +920,7 @@
         ],
         "type": "boxShadow"
       },
-      "$tooltip": {
+      "$tooltip2": {
         "value": [
           {
             "color": "#00000040",
@@ -979,6 +979,27 @@
             "y": "-4",
             "blur": "8",
             "spread": "0"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "$tooltip": {
+        "value": [
+          {
+            "color": "#00000014",
+            "type": "dropShadow",
+            "x": 0,
+            "y": 0,
+            "blur": 4,
+            "spread": 0
+          },
+          {
+            "color": "#00000029",
+            "type": "dropShadow",
+            "x": 0,
+            "y": 4,
+            "blur": 8,
+            "spread": 0
           }
         ],
         "type": "boxShadow"
